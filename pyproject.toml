@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "wb-parser"
+version = "0.1.0"
+description = "Wildberries parser"
+authors = ["revoluxe-ai"]
+readme = "README.md"
+packages = [{ include = "wb" }, { include = "spp_check.py" }]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4.0"
+requests = ">=2.31.0"
+pandas = ">=2.0.0"
+openpyxl = ">=3.1.0"
+curl_cffi = ">=0.7.0"
+
+[tool.poetry.scripts]
+spp-check = "spp_check:main"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
