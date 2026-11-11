@@ -1,0 +1,154 @@
+{
+  "runs": [
+    {
+      "ts": "2026-11-10 20:48:27 MSK",
+      "items": {
+        "1464760255": {
+          "nm_id": 1464760255,
+          "name": "Платье мини вязаное с длинным рукавом, ТЕЛОДВИЖЕНИЯ",
+          "brand": "ТЕЛОДВИЖЕНИЯ",
+          "seller_name": "ООО СКВТ",
+          "price": 4260.0,
+          "sale_price": 3176.0,
+          "discount_percent": 28.0,
+          "rating": 4.8,
+          "review_count": 2756,
+          "stock": null,
+          "availability": "В наличии",
+          "url": "https://www.wildberries.ru/catalog/1464760255/detail.aspx"
+        },
+        "550053815": {
+          "nm_id": 550053815,
+          "name": "Платье нарядное мини с завязками, Miеl",
+          "brand": "Miеl",
+          "seller_name": "SOLANZO DS",
+          "price": 8000.0,
+          "sale_price": 2873.0,
+          "discount_percent": 64.0,
+          "rating": 4.7,
+          "review_count": 48,
+          "stock": 0,
+          "availability": "Нет в наличии",
+          "url": "https://www.wildberries.ru/catalog/550053815/detail.aspx"
+        },
+        "1653909460": {
+          "nm_id": 1653909460,
+          "name": "Платье женское трикотажное макси облегающее, INICIO",
+          "brand": "INICIO",
+          "seller_name": "INICIO",
+          "price": 7000.0,
+          "sale_price": 2730.0,
+          "discount_percent": 61.0,
+          "rating": 4.9,
+          "review_count": 13344,
+          "stock": null,
+          "availability": "В наличии",
+          "url": "https://www.wildberries.ru/catalog/1653909460/detail.aspx"
+        },
+        "1815076368": {
+          "nm_id": 1815076368,
+          "name": "Платье шелковое, GRINKOVSKAYA brand",
+          "brand": "GRINKOVSKAYA brand",
+          "seller_name": "GRINKOVSKAYA brand",
+          "price": 11000.0,
+          "sale_price": 6619.0,
+          "discount_percent": 39.0,
+          "rating": 4.7,
+          "review_count": 929,
+          "stock": null,
+          "availability": "В наличии",
+          "url": "https://www.wildberries.ru/catalog/1815076368/detail.aspx"
+        },
+        "1982278649": {
+          "nm_id": 1982278649,
+          "name": "Платье свитер вязаная туника с горлом, FKFARIKA",
+          "brand": "FKFARIKA",
+          "seller_name": "FKFARIKA",
+          "price": 3900.0,
+          "sale_price": 2527.0,
+          "discount_percent": 35.0,
+          "rating": 4.8,
+          "review_count": 31169,
+          "stock": null,
+          "availability": "В наличии",
+          "url": "https://www.wildberries.ru/catalog/1982278649/detail.aspx"
+        }
+      }
+    },
+    {
+      "ts": "2026-11-10 20:48:51 MSK",
+      "items": {
+        "1464760255": {
+          "nm_id": 1464760255,
+          "name": "Платье мини вязаное с длинным рукавом, ТЕЛОДВИЖЕНИЯ",
+          "brand": "ТЕЛОДВИЖЕНИЯ",
+          "seller_name": "ООО СКВТ",
+          "price": 4260.0,
+          "sale_price": 3026.0,
+          "discount_percent": 28.0,
+          "rating": 4.8,
+          "review_count": 2756,
+          "stock": null,
+          "availability": "В наличии",
+          "url": "https://www.wildberries.ru/catalog/1464760255/detail.aspx"
+        },
+        "550053815": {
+          "nm_id": 550053815,
+          "name": "Платье нарядное мини с завязками, Miеl",
+          "brand": "Miеl",
+          "seller_name": "SOLANZO DS",
+          "price": 8000.0,
+          "sale_price": 2873.0,
+          "discount_percent": 64.0,
+          "rating": 4.7,
+          "review_count": 48,
+          "stock": null,
+          "availability": "В наличии",
+          "url": "https://www.wildberries.ru/catalog/550053815/detail.aspx"
+        },
+        "1653909460": {
+          "nm_id": 1653909460,
+          "name": "Платье женское трикотажное макси облегающее, INICIO",
+          "brand": "INICIO",
+          "seller_name": "INICIO",
+          "price": 7000.0,
+          "sale_price": 2730.0,
+          "discount_percent": 61.0,
+          "rating": 4.9,
+          "review_count": 13344,
+          "stock": null,
+          "availability": "В наличии",
+          "url": "https://www.wildberries.ru/catalog/1653909460/detail.aspx"
+        },
+        "1815076368": {
+          "nm_id": 1815076368,
+          "name": "Платье шелковое, GRINKOVSKAYA brand",
+          "brand": "GRINKOVSKAYA brand",
+          "seller_name": "GRINKOVSKAYA brand",
+          "price": 11000.0,
+          "sale_price": 6619.0,
+          "discount_percent": 39.0,
+          "rating": 4.7,
+          "review_count": 929,
+          "stock": null,
+          "availability": "В наличии",
+          "url": "https://www.wildberries.ru/catalog/1815076368/detail.aspx"
+        },
+        "1982278649": {
+          "nm_id": 1982278649,
+          "name": "Платье свитер вязаная туника с горлом, FKFARIKA",
+          "brand": "FKFARIKA",
+          "seller_name": "FKFARIKA",
+          "price": 3900.0,
+          "sale_price": 2527.0,
+          "discount_percent": 35.0,
+          "rating": 4.8,
+          "review_count": 31169,
+          "stock": null,
+          "availability": "В наличии",
+          "url": "https://www.wildberries.ru/catalog/1982278649/detail.aspx"
+        }
+      }
+    }
+  ]
+}
